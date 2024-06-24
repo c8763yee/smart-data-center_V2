@@ -23,4 +23,12 @@
 <|{engine_room_data}|chart|propagate={property_chart_humi}|>
 
 |>
+
+<|part|
+
+### Status
+
+<|{engine_room_data}|chart|propagate={property_chart_ac_switch}|>
+
+|>
 |>
